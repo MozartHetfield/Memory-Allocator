@@ -1,10 +1,4 @@
-    NUME: SOARE ION-ALEXANDRU
-    UNIVERSITATEA: POLITEHNICA DIN BUCURESTI
-    FACULTATEA: AUTOMATICA SI CALCULATOARE, SECTIA CTI
-    GRUPA SI SERIA: 323, CD
-    ANUL UNIVERSITAR: 2017-2018
-
------------------      TEMA 2 - ALOCATOR DE MEMORIE	 -----------------
+-----------------      ALOCATOR DE MEMORIE	 -----------------
 
 Intrucat scheletul a fost pus la dispozitie de catre echipa, voi specifica
 functionalitatea fiecarei instructiuni, pe rand, in ordinea implementarii:
